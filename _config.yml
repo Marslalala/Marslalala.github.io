@@ -144,11 +144,11 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  # news:
-  #   defaults:
-  #     layout: post
-  #   output: true
-  #   permalink: /:collection/:title/
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
@@ -192,16 +192,12 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _posts
   - _news
   - _pages/about_einstein.md
   - _pages/blog.md
   - _pages/news.md
   - _pages/publications.md
   - _pages/repositories.md
-  - _pages/teaching.md
-  - _pages/profiles.md
-  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -299,15 +295,15 @@ scholar:
   group_by: year
   group_order: descending
 
-Display different badges withs stats for your publications
-Customize badge behavior in _layouts/bib.liquid
+# Display different badges withs stats for your publications
+# Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
-Filter out certain bibtex entry keywords used internally from the bib output
+# Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
   [
     abbr,
