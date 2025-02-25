@@ -1,8 +1,13 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
+nav: true
+nav_order: 1
+description:
+toc:
+  sidebar: left
 
 profile:
   align: right
