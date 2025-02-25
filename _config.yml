@@ -200,6 +200,7 @@ exclude:
   - _pages/publications.md
   - _pages/repositories.md
   - _pages/teaching.md
+  - _pages/profiles.md
   - _bibliography
 keep_files:
   - CNAME
