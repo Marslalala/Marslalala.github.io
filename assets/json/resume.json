@@ -97,7 +97,7 @@
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python: Pandas, Numpy, Scikit-learn, scipy, etc.",
+        "Python: Pandas, Numpy, Scikit-learn, Scipy",
         "SQL",
         "R Scripting"
       ]
@@ -119,8 +119,8 @@
         "Microsoft Office",
         "Gen AI Prompting",
         "A/B Testing",
-        "GCP (In progress)",
-        "AWS (In progress)"
+        "GCP",
+        "AWS"
       ]
     },
     {
