@@ -10,7 +10,7 @@ toc:
 
 profile:
   align: right
-  image: IMG_2343.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
