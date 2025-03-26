@@ -2,7 +2,7 @@
 layout: page
 title: Trends in the Prevalence of Major Chronic Diseases Across the U.S. Over Time
 description: 
-img: assets/img/12.jpg
+img: assets/img/chronic_disease_icon.jpg
 importance: 1
 category: work
 related_publications: false
