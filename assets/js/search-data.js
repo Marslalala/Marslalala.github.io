@@ -375,9 +375,9 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "projects-trends-in-the-prevalence-of-major-chronic-diseases-across-the-u-s-over-time",
-          title: 'Trends in the Prevalence of Major Chronic Diseases Across the U.S. Over Time...',
-          description: "",
+    },{id: "projects-chronic-diseases-analysis",
+          title: 'Chronic Diseases Analysis',
+          description: "ML Techniques to Unveil The Trends Across USA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-petal-image-recognition",
@@ -385,9 +385,9 @@ ninja.data = [{
           description: "Flower Classification by Leveraging CNN",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-datong-tourism-visualization",
+          title: 'Datong Tourism Visualization',
+          description: "A Developed Tableau Story Reflecting Tourism at Datong",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
