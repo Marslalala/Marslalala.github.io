@@ -4,8 +4,8 @@ title: Petal Image Recognition
 description: Flower Classification by Leveraging CNN
 img: assets/img/petal_proj_icon.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: 
+giscus_comments:
 ---
 
 This project is based on a Kaggle competition dataset, which provides flower images for classification. The goal is to develop and train a custom Convolutional Neural Network (CNN) using TensorFlow to accurately classify these flower images.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Trends in the Prevalence of Major Chronic Diseases Across the U.S. Over Time
-description: 
+title: Chronic Diseases Analysis
+description: ML Techniques to Unveil The Trends Across USA
 img: assets/img/chronic_disease_icon.jpg
 importance: 1
-category: work
+category: 
 related_publications: false
 ---
 
