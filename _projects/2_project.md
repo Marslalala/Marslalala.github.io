@@ -4,7 +4,7 @@ title: Petal Image Recognition
 description: Flower Classification by Leveraging CNN
 img: assets/img/petal_proj_icon.jpg
 importance: 2
-category: 
+category: work
 giscus_comments:
 ---
 

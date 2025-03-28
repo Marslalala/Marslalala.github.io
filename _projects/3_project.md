@@ -2,10 +2,10 @@
 layout: page
 title: Datong Tourism Visualization
 description: A Developed Tableau Story Reflecting Tourism at Datong
-img: assets/img/7.jpg
+img: assets/img/yungang_datong_icon.jpg
 redirect: https://unsplash.com
 importance: 3
-category: 
+category: work
 ---
 
 Datong, a historic city in northern China, is known for its rich cultural heritage and long-standing history. It has become a popular destination for both domestic and international tourists. This project aims to provide an overview of the city’s cultural and historical significance, along with key tourism data. The goal is to create an engaging and informative visual story that promotes the beauty and appeal of my hometown.
